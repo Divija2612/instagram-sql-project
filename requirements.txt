@@ -1,0 +1,5 @@
+# Python libraries needed for the Instagram dashboard
+streamlit
+pandas
+sqlalchemy
+plotly
