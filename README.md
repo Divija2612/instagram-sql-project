@@ -1,6 +1,6 @@
 # Instagram Analytics Dashboard 
 
-A data analytics dashboard built using **PostgreSQL, Python, Streamlit, and Plotly** to visualize Instagram-like user activity such as posts, likes, comments, and followers.
+A data analytics dashboard built using **PostgreSQL, Python, Streamlit, Plotly and Power BI** to visualize Instagram-like user activity such as posts, likes, comments, and followers.
 
 ## Features
 - User database visualization
@@ -16,5 +16,6 @@ A data analytics dashboard built using **PostgreSQL, Python, Streamlit, and Plot
 - **Data Analysis:** Pandas
 - **Visualization:** Plotly
 - **Frontend:** Streamlit
+- **Business Intelligence:** Power BI (DAX, KPI Cards, Pie & Line Charts)
 
 ## Project Structure
