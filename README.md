@@ -18,4 +18,3 @@ A data analytics dashboard built using **PostgreSQL, Python, Streamlit, Plotly a
 - **Frontend:** Streamlit
 - **Business Intelligence:** Power BI (DAX, KPI Cards, Pie & Line Charts)
 
-## Project Structure
