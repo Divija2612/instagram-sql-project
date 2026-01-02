@@ -16,4 +16,5 @@ This project demonstrates the design and implementation of a relational database
 - **Visualization:** Plotly
 - **Frontend:** Streamlit
 - **Business Intelligence:** Power BI (DAX, KPI Cards, Pie & Line Charts)
+To see the instagram dashboard through streamlit run "streamlit run app.py" in a python based environment.
 
