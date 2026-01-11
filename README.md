@@ -15,5 +15,6 @@ This project demonstrates the design and implementation of a relational database
 - **Data Analysis:** Pandas
 - **Visualization:** Plotly
 - **Frontend:** Streamlit
+  
 To see the instagram dashboard through streamlit run "streamlit run app.py" in a python based environment.
 
